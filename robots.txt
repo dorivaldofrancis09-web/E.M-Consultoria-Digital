@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Bloquear diretórios administrativos
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap (criar este arquivo depois)
+Sitemap: https://www.seusite.com/sitemap.xml
